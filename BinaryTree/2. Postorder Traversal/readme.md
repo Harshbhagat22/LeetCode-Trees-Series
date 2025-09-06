@@ -68,5 +68,3 @@ class Solution {
 }
 ```
 
-Do you want me to also add the **iterative stack-based version** so your notes cover both?
-
